@@ -1,0 +1,1 @@
+ exports.recordController = require('./recordController');

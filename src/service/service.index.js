@@ -1,0 +1,1 @@
+exports.recordService = require('./recordService'); 
