@@ -1,6 +1,5 @@
-const {  authRoute } = require('./routes.index');
-// const { authenticator } = require('../middlewares/middlewares.index');
+const {  recordRoute } = require('./routes.index'); 
 
 exports.assignRoutes = app => { 
-	authRoute.assignRoutes(app);
+	recordRoute.assignRoutes(app);
 };

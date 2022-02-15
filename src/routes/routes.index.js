@@ -1,1 +1,1 @@
-exports.authRoute = require('./recordRoute');
+exports.recordRoute = require('./recordRoute');
